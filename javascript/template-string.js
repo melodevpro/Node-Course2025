@@ -6,4 +6,3 @@ const template = `${nombre} ${real}`;
 
 console.log(normal);
 console.log(template);
-
